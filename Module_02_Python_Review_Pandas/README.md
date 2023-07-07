@@ -7,11 +7,20 @@
 * Operations on Tabular data
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Pandas DataFrame: How to create and manipulate a pandas DataFrame
+* Unique Values: How to find unique values in a DataFrame column using the pd.unique()
+* Boolean Masking: Create a boolean mask to filter a DataFrame based on certain conditions.
+* Conditional Filtering: Explored how to filter a DataFrame based on multiple conditions.
+* Sorting DataFrames
 
+  
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+The biggest challenge for this assignment was reading through the panda documentation. There are many ways to use panda functions to manipulate data.
 
 ## Additional resources used 
-<To be filled>
+[Data Cheatsheet](https://res.cloudinary.com/dyd911kmh/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf)
+
+[Panda Docs](https://pandas.pydata.org/docs/user_guide/index.html)
+
+
 
