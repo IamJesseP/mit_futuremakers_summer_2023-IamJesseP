@@ -22,5 +22,8 @@ The biggest challenge for this assignment was reading through the panda document
 
 [Panda Docs](https://pandas.pydata.org/docs/user_guide/index.html)
 
+[Chat-GPT](https://chat.openai.com/?model=gpt-4) as a teacher:
+* Prompt: Hi ChatGPT, I'm learning and reviewing the Python programming language and need someone to tutor me. From here on out, please do not directly answer any questions I have, instead lead me to the answer by asking me questions that would help me learn the concept.
+
 
 
