@@ -7,10 +7,15 @@
 * Building a simple Neural Network
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Linear Regression and its use in machine learning
+* Introduced to TensorFlow, data preprocessing, neural networking modeling, model compilation and training
+* Using the Fashion MNIST dataset
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* Understanding tensorflow arrays and concepts around neural network modeling
 
 ## Additional resources used 
-<To be filled>
+[SciKit docs](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression.fit)
+
+
+[TensorFlow Docs](https://www.tensorflow.org/api_docs)
