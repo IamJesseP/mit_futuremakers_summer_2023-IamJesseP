@@ -26,5 +26,5 @@
   - Sparse Categorical Cross-Entropy is used when the labels are integers.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-Implementing CCE from scratch is challening and confusing!
+Implementing CCE from scratch is challenging and confusing!
 
